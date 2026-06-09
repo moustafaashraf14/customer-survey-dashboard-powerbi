@@ -46,7 +46,14 @@ This project helps answer questions such as:
 
 ## Dashboard Preview
 
-*Add dashboard screenshots here.*
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+### Customer Details
+![Customer Details](screenshots/customer-details.png)
+
+### Treemap Analysis
+![Treemap Analysis](screenshots/treemap-analysis.png)
 
 ## Key Skills Demonstrated
 
