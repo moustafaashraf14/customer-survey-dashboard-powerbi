@@ -1,21 +1,51 @@
-# Customer Survey Dashboard | Power BI
+# Customer Satisfaction Dashboard | Power BI
 
-## Overview
+## Dashboard Preview
 
-This Power BI dashboard analyzes customer survey data to measure customer satisfaction, evaluate service quality, and identify the factors that influence customer recommendations.
+### Overview
 
-The dashboard transforms raw survey responses into actionable insights that support data-driven decision-making and customer experience improvement.
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+### Customer Details
+
+![Customer Details](screenshots/customer-details.png)
+
+### Treemap Analysis
+
+![Treemap Analysis](screenshots/treemap-analysis.png)
+
+---
+
+## Project Overview
+
+This Power BI project analyzes customer survey data to measure customer satisfaction, evaluate service quality, and uncover the key factors influencing customer recommendations.
+
+The dashboard transforms raw survey responses into actionable business insights, enabling data-driven decision-making and customer experience improvement.
+
+---
 
 ## Business Problem
 
-Companies collect large volumes of customer feedback, but extracting meaningful insights from survey data can be challenging.
+Organizations collect large volumes of customer feedback, but identifying meaningful patterns and improvement opportunities can be challenging.
 
-This project helps answer questions such as:
+This dashboard helps answer key business questions such as:
 
 * How satisfied are customers overall?
-* Which customer segments are most satisfied?
+* Which customer segments report the highest satisfaction levels?
 * What factors influence customer recommendations?
-* How do satisfaction levels vary across demographics and regions?
+* How does satisfaction vary across demographics and regions?
+
+---
+
+## Tools & Technologies
+
+* Power BI
+* Power Query
+* DAX
+* Data Modeling
+* Data Visualization
+
+---
 
 ## Dashboard Features
 
@@ -24,8 +54,10 @@ This project helps answer questions such as:
 * Customer Segmentation by Age and Gender
 * Regional Performance Analysis
 * Service-Based Satisfaction Analysis
-* Interactive Filters and Drill-Downs
+* Interactive Filters and Drill-Down Functionality
 * Key Influencers Analysis
+
+---
 
 ## Key Metrics
 
@@ -36,24 +68,7 @@ This project helps answer questions such as:
 * NPS Score
 * Total Survey Responses
 
-## Tools & Technologies
-
-* Power BI
-* Power Query
-* DAX
-* Data Modeling
-* Data Visualization
-
-## Dashboard Preview
-
-### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard-overview.png)
-
-### Customer Details
-![Customer Details](screenshots/customer-details.png)
-
-### Treemap Analysis
-![Treemap Analysis](screenshots/treemap-analysis.png)
+---
 
 ## Key Skills Demonstrated
 
@@ -65,6 +80,9 @@ This project helps answer questions such as:
 * Dashboard Design
 * Business Intelligence Reporting
 
+---
+
 ## Project Outcome
 
-The dashboard provides a comprehensive view of customer feedback, enabling stakeholders to identify improvement opportunities, monitor customer satisfaction trends, and make informed business decisions.
+The dashboard provides a comprehensive view of customer feedback, helping stakeholders identify improvement opportunities, monitor customer satisfaction trends, and support informed business decisions through data-driven insights.
+
